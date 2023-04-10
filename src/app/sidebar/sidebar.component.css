@@ -1,0 +1,7 @@
+aside {
+  background-color: grey;
+  width: var(--side-width);
+  height: calc(100vh - var(--toolbar-height));
+  position: fixed;
+  padding: 10px;
+}
